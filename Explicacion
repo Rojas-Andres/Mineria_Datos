@@ -1,5 +1,5 @@
 El programa fue desarrollado para hacer el respectivo analisis de uno de los postulados a la alcaldia de la ciudad de cali ,
-en donde tomamos la herramienta propuesta por twitter para python que es tweppy , para desarrollar este programa nos basamos en la 
+en donde tome la herramienta propuesta por twitter para python que es tweppy , para desarrollar este programa nos basamos en la 
 documentacion oficial de la api .
 
 twetts_retwets= para los twets de el y los retwets de el
