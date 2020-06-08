@@ -1,0 +1,17 @@
+El programa fue desarrollado para hacer el respectivo analisis de uno de los postulados a la alcaldia de la ciudad de cali ,
+en donde tomamos la herramienta propuesta por twitter para python que es tweppy , para desarrollar este programa nos basamos en la 
+documentacion oficial de la api .
+
+twetts_retwets= para los twets de el y los retwets de el
+menciones= las veces que lo mencionaron(ultimas 1000)
+analisis_sentimientos = se desarrollo el mini analisis de sentimientos usando un txt donde se refiere a todas las palabras buenas y se 
+analizaron los retwets para identificar si lo mencionaron de una manera buena o mala.
+
+Tambien las "celebridades" , catalogue que una celebridad tiene que tener mas de 10000 twets . Se agarro el id y el screen_name ,retwet y texto.
+Esas celebridades se hizo con los 1000 twets que se pudo recoger de las menciones .
+
+Se debe tener en cuenta que si se quiere replicar el algoritmo se deben registrar a twitter devoloper https://developer.twitter.com/en registrarse
+y posteriormente ellos les daran unas llaves , esas llaves deben colocarlas en twetts_retwets, menciones donde estan las comillas vacias
+ahi de igualmanera se explico . 
+
+El analisis no fue tan grande porque twitter tiene una cantidad de solicitudes por desarrollador si se usa la api de manera gratuita .
